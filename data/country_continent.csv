@@ -1,263 +1,250 @@
 continent_name,country_code 
+North America,ABW
 Asia,AFG
-Europe,ALB
-Antarctica,ATA
-Africa,DZA
-Oceania,ASM
-Europe,AND
 Africa,AGO
-North America,ATG
-Europe,AZE
-Asia,AZE
+North America,AIA
+Europe,ALA
+Europe,ALB
+Europe,AND
+North America,ANT
+Asia,ARE
 South America,ARG
+Asia,ARM
+Oceania,ASM
+Antarctica,ATA
+Antarctica,ATF
+North America,ATG
 Oceania,AUS
 Europe,AUT
-North America,BHS
-Asia,BHR
-Asia,BGD
-Europe,ARM
-Asia,ARM
-North America,BRB
-Europe,BEL
-North America,BMU
-Asia,BTN
-South America,BOL
-Europe,BIH
-Africa,BWA
-Antarctica,BVT
-South America,BRA
-North America,BLZ
-Asia,IOT
-Oceania,SLB
-North America,VGB
-Asia,BRN
-Europe,BGR
-Asia,MMR
+Asia,AZE
 Africa,BDI
+Europe,BEL
+Africa,BEN
+North America,BES
+Africa,BFA
+Asia,BGD
+Europe,BGR
+Asia,BHR
+North America,BHS
+Europe,BIH
+North America,BLM
 Europe,BLR
-Asia,KHM
-Africa,CMR
-North America,CAN
-Africa,CPV
-North America,CYM
+North America,BLZ
+North America,BMU
+South America,BOL
+South America,BRA
+North America,BRB
+Asia,BRN
+Asia,BTN
+Antarctica,BVT
+Africa,BWA
 Africa,CAF
-Asia,LKA
-Africa,TCD
+North America,CAN
+Asia,CCK
+Europe,CHE
 South America,CHL
 Asia,CHN
-Asia,TWN
-Asia,CXR
-Asia,CCK
+Africa,CIV
+Africa,CMR
+Africa,COD
+Africa,COG
+Oceania,COK
 South America,COL
 Africa,COM
-Africa,MYT
-Africa,COG
-Africa,COD
-Oceania,COK
+Africa,CPV
 North America,CRI
-Europe,HRV
 North America,CUB
+North America,CUW
+Asia,CXR
+North America,CYM
 Europe,CYP
-Asia,CYP
 Europe,CZE
-Africa,BEN
-Europe,DNK
-North America,DMA
-North America,DOM
-South America,ECU
-North America,SLV
-Africa,GNQ
-Africa,ETH
-Africa,ERI
-Europe,EST
-Europe,FRO
-South America,FLK
-Antarctica,SGS
-Oceania,FJI
-Europe,FIN
-Europe,ALA
-Europe,FRA
-South America,GUF
-Oceania,PYF
-Antarctica,ATF
-Africa,DJI
-Africa,GAB
-Europe,GEO
-Asia,GEO
-Africa,GMB
-Asia,PSE
 Europe,DEU
+Africa,DJI
+North America,DMA
+Europe,DNK
+North America,DOM
+Africa,DZA
+South America,ECU
+Africa,EGY
+Africa,ERI
+Africa,ESH
+Europe,ESP
+Europe,EST
+Africa,ETH
+Europe,FIN
+Oceania,FJI
+South America,FLK
+Europe,FRA
+Europe,FRO
+Oceania,FSM
+Africa,GAB
+Europe,GBR
+Europe,GEO
+Europe,GGY
 Africa,GHA
 Europe,GIB
-Oceania,KIR
-Europe,GRC
-North America,GRL
-North America,GRD
-North America,GLP
-Oceania,GUM
-North America,GTM
 Africa,GIN
+North America,GLP
+Africa,GMB
+Africa,GNB
+Africa,GNQ
+Europe,GRC
+North America,GRD
+North America,GRL
+North America,GTM
+South America,GUF
+Oceania,GUM
 South America,GUY
-North America,HTI
-Antarctica,HMD
-Europe,VAT
-North America,HND
 Asia,HKG
+Antarctica,HMD
+North America,HND
+Europe,HRV
+North America,HTI
 Europe,HUN
-Europe,ISL
-Asia,IND
 Asia,IDN
+Europe,IMN
+Asia,IND
+Asia,IOT
+Europe,IRL
 Asia,IRN
 Asia,IRQ
-Europe,IRL
+Europe,ISL
 Asia,ISR
 Europe,ITA
-Africa,CIV
 North America,JAM
-Asia,JPN
-Europe,KAZ
-Asia,KAZ
+Europe,JEY
 Asia,JOR
+Asia,JPN
+Asia,KAZ
 Africa,KEN
-Asia,PRK
+Asia,KGZ
+Asia,KHM
+Oceania,KIR
+North America,KNA
 Asia,KOR
 Asia,KWT
-Asia,KGZ
 Asia,LAO
 Asia,LBN
-Africa,LSO
-Europe,LVA
 Africa,LBR
 Africa,LBY
+North America,LCA
 Europe,LIE
+Asia,LKA
+Africa,LSO
 Europe,LTU
 Europe,LUX
+Europe,LVA
 Asia,MAC
+North America,MAF
+Africa,MAR
+Europe,MCO
+Europe,MDA
 Africa,MDG
-Africa,MWI
-Asia,MYS
 Asia,MDV
+North America,MEX
+Oceania,MHL
+Europe,MKD
 Africa,MLI
 Europe,MLT
-North America,MTQ
-Africa,MRT
-Africa,MUS
-North America,MEX
-Europe,MCO
-Asia,MNG
-Europe,MDA
+Asia,MMR
 Europe,MNE
-North America,MSR
-Africa,MAR
-Africa,MOZ
-Asia,OMN
-Africa,NAM
-Oceania,NRU
-Asia,NPL
-Europe,NLD
-North America,ANT
-North America,CUW
-North America,ABW
-North America,SXM
-North America,BES
-Oceania,NCL
-Oceania,VUT
-Oceania,NZL
-North America,NIC
-Africa,NER
-Africa,NGA
-Oceania,NIU
-Oceania,NFK
-Europe,NOR
+Asia,MNG
 Oceania,MNP
-Oceania,UMI
-North America,UMI
-Oceania,FSM
-Oceania,MHL
-Oceania,PLW
+Africa,MOZ
+Africa,MRT
+North America,MSR
+North America,MTQ
+Africa,MUS
+Africa,MWI
+Asia,MYS
+Africa,MYT
+Africa,NAM
+Oceania,NCL
+Africa,NER
+Oceania,NFK
+Africa,NGA
+North America,NIC
+Oceania,NIU
+Europe,NLD
+Europe,NOR
+Asia,NPL
+Oceania,NRU
+Oceania,NZL
+Asia,OMN
 Asia,PAK
 North America,PAN
-Oceania,PNG
-South America,PRY
+Oceania,PCN
 South America,PER
 Asia,PHL
-Oceania,PCN
+Oceania,PLW
+Oceania,PNG
 Europe,POL
-Europe,PRT
-Africa,GNB
-Asia,TLS
 North America,PRI
+Asia,PRK
+Europe,PRT
+South America,PRY
+Asia,PSE
+Oceania,PYF
 Asia,QAT
 Africa,REU
 Europe,ROU
 Europe,RUS
-Asia,RUS
 Africa,RWA
-North America,BLM
-Africa,SHN
-North America,KNA
-North America,AIA
-North America,LCA
-North America,MAF
-North America,SPM
-North America,VCT
-Europe,SMR
-Africa,STP
 Asia,SAU
-Africa,SEN
-Europe,SRB
-Africa,SYC
-Africa,SLE
-Asia,SGP
-Europe,SVK
-Asia,VNM
-Europe,SVN
-Africa,SOM
-Africa,ZAF
-Africa,ZWE
-Europe,ESP
-Africa,SSD
-Africa,ESH
 Africa,SDN
-South America,SUR
+Africa,SEN
+Asia,SGP
+Antarctica,SGS
+Africa,SHN
 Europe,SJM
-Africa,SWZ
+Oceania,SLB
+Africa,SLE
+North America,SLV
+Europe,SMR
+Africa,SOM
+North America,SPM
+Europe,SRB
+Africa,SSD
+Africa,STP
+South America,SUR
+Europe,SVK
+Europe,SVN
 Europe,SWE
-Europe,CHE
+Africa,SWZ
+North America,SXM
+Africa,SYC
 Asia,SYR
-Asia,TJK
-Asia,THA
+North America,TCA
+Africa,TCD
 Africa,TGO
+Asia,THA
+Asia,TJK
 Oceania,TKL
+Asia,TKM
+Asia,TLS
 Oceania,TON
 North America,TTO
-Asia,ARE
 Africa,TUN
 Europe,TUR
-Asia,TUR
-Asia,TKM
-North America,TCA
 Oceania,TUV
+Asia,TWN
+Africa,TZA
 Africa,UGA
 Europe,UKR
-Europe,MKD
-Africa,EGY
-Europe,GBR
-Europe,GGY
-Europe,JEY
-Europe,IMN
-Africa,TZA
-North America,USA
-North America,VIR
-Africa,BFA
 South America,URY
+North America,USA
 Asia,UZB
+Europe,VAT
+North America,VCT
 South America,VEN
+North America,VGB
+North America,VIR
+Asia,VNM
+Oceania,VUT
 Oceania,WLF
 Oceania,WSM
 Asia,YEM
+Africa,ZAF
 Africa,ZMB
-Oceania,
-Asia,
-Asia,
-Asia,
+Africa,ZWE
