@@ -11,6 +11,7 @@ ALTER ROLE group_37 SET timezone TO 'UTC';
 GRANT ALL PRIVILEGES ON DATABASE covid_proj TO group_37;
 
 In linux terminal:
+
 sudo apt update && sudo apt upgrade -y
 sudo apt install build-essential libssl-dev libpq-dev libffi-dev python3-dev
 mkdir myproject   #creating our project folder
