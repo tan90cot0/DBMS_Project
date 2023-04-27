@@ -1,0 +1,24 @@
+{% extends "index.html" %}
+
+{% block page_content %}
+
+        <div class="mw6 center pa3 sans-serif">
+
+            <h1 class="mb4"></h1>
+
+        {% for country in cnt%}
+
+            <div class="pa2 mb3 striped--near-white">
+
+                <div class="pl2">
+                    
+                    <p class="mb2">{{ country.name }} {{ country.code }}</p>
+                </div>
+
+            </div>
+
+        {% endfor %}
+        <p> this was all the data i had.</p>
+        </div>
+
+{% endblock %}

@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'covid.apps.CovidConfig', #This object was created for us in /covid/apps.py
+    'django_extensions',
 
 ]
 
@@ -78,10 +79,10 @@ WSGI_APPLICATION = 'django_proj.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'covid_proj', 
+        'NAME': 'group_37', 
         'USER': 'group_37', 
-        'PASSWORD': '1234',
-        'HOST': '127.0.0.1', 
+        'PASSWORD': 'Gsiyd6maxwfJ5l3',
+        'HOST': '10.17.50.91', 
         'PORT': '5432',
     }
 }
